@@ -1,0 +1,7 @@
+- Mảng là một cấu trúc dữ liệu được sử dụng để lưu trữ nhiều giá trị có kiểu dữ liệu khác nhau
+- Mảng được bao bọc bởi dấu [] bên ngoài
+- Mảng bắt đầu tại vị trí số 0 và kết thúc ở vị trí: độ dài mảng - 1
+
+- Trong quá trình tạo mảng thì nên dùng từ khóa const để khai báo mảng
+- Kiểu dữ liệu tham chiếu (function, array, object) và 
+tham trị (thường là các kiểu dữ liệu nguyên thủy: null, undefined, NaN, boolean, string, number, symbol)
